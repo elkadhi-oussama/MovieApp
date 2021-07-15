@@ -1,0 +1,20 @@
+.moviecard{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+   
+}
+.App {
+  background-color: #270a51;
+  
+}
+
+.footer{
+  background: #362252;
+  height: 50px;
+  color: white;
+  font-weight: bold;
+  padding: 0px 20px;
+  text-align: center;
+  padding-top: 10px;
+}
